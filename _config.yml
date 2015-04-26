@@ -6,10 +6,10 @@
 name: Carolina Vizcaino
 
 # Short bio or description (displayed in the header)
-description: After being in the education field for the past ten years, I am venturing out of the four walls of a classroom to explore new opportunities.  While finishing my degree in Education I worked as a paraprofessional helping studnets with special needs.  I have gone from working in a low income charter school to a parochial school in an affluent neighborhood in Miami, Fl.  
+description: After being in the education field for the past ten years, I am venturing out of the four walls of a classroom to explore new opportunities.  While finishing my degree in Education, I worked as a paraprofessional helping students with special needs.  I have gone from working in a low income charter school to a parochial school in an affluent neighborhood in Miami, Fl.  Now I am about to venture out into the unknown world of coding and seeing how I can apply to make a difference in education.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://www.gravatar.com/avatar/8f94427c114c4089f4b90043cbbd66d3.png
 
 #
 # Flags below are optional
@@ -21,18 +21,18 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: cviz
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: @cvizcaino7
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: cviz
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:

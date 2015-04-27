@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 ## Here's to Trying!
 
-
+As a little girl I would often speak up about my life aspirations without being asked.  I would go on and on about how I would become a teacher, get married and have a family, and definitely become a missionary in order to help others.  You see I have always been a very determined woman; therefore, most of that is actually what happened, at least the part that I could control.  I am soon turning 30 and so far I have been an educator for eight years, gone on five mission trip to Peru, and done a quite a few volunteer projects.  The part about getting married and having a family, that part I've learned is clearly out of my control.  I, Carolina Vizcaino, always had a plan and as far as I can remember I did everything in my power to turn that plan into a reality.  Hence, why I am now freaking out and my family thinks I am loosing my mind.  After being in the classroom for eight years, I am looking into venturing out into the unknown world of coding.   I am going to try to learn how to computer program in hopes of attempting to create something that can make a difference to the ever-changing field of education, at least that is my new dream.  As my aspirations from before, I am determined and know that I can make it happen.  The true question is how?  It is scary and I am not quite sure what I am doing, but as I have done in the past, I will accomplish this because this part of the story I can control.  So in order to calm my nerves and share my learning experiences with others, I have decided to start this blog.  Here's to trying!  
